@@ -38,3 +38,19 @@
     max-width: 100%;
     max-height: 300px;
 }
+
+footer {
+    background-color:#4a4a4f;
+    text-align:center;
+    padding:10px 20px;
+    color:white;
+}
+
+.section-middle {
+    text-align:center;
+}
+
+h3, h2, h1 {
+    text-decoration:underline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
