@@ -79,3 +79,17 @@ fieldset label {
         width:175px;
         height:175px;
     }
+
+    @media screen and (max-width: 1200px) {
+        .img-media{
+            width:33%;
+            height:250px;
+        }
+    }
+    
+    @media screen and (max-width: 900px) {
+        .img-media{
+            width:75%;
+            clear:both;
+        }
+    }
