@@ -23,42 +23,43 @@ In this section, you should go over the different parts of your project, and des
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - Our landing page is a previous work that the architecture design company have completed to show the user what kind of projects the company can help them with. 
+  - This image shows the viewer an eyeopening first project to catch their attention and build trust in what the company can achieve.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __About us Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The about us section describes to the viewer why just this architecture design company is the right company to go with, describing three key factors in the company.
+  - The user will see the different values of the company, working time effiency, being family owned and yet affordable.
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __History section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to read more about the history of the company and get an understanding on how they started and have worked throughout the years.
+  - This is to build that trust with the customers and try to get them to feel safe that the architecture design company have been in business for long. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section is kept simple with relevant social media sites for the company, the links will open in a new tab to allow aesy navigation for the user.
+  - The footer is valuable for the user and the company to get them connected on social medias.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery is kept simple and nice to show of some of the previous work that the business have done and give some inspiration to the viewer.
+  - This section is valuable for the user as they will feel safe that the company have done previous work and can show of their previous work. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __The contact form__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The contact form will allow the customer to easily fill out their information with a message that directly connects them with the architecture designer. All the boxes are marked as required and the form works. 
+  - This is really valuable for the viewer as they dont have to leave the site to get in touch with the company.
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
