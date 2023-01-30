@@ -96,9 +96,10 @@ I did not come across any bugs that werent resolved.
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Went to GitHub, under my settings
+  - On the left menu, select the pages tab
+  - Under the source section, I selected a main branch and clicked save
+  - The site reloaded and I got my website link and a successful deployment to GitHub
 
 The live link can be found here - (Länk här)
 
@@ -107,10 +108,6 @@ The live link can be found here - (Länk här)
 
 - I took help of my mentor on some parts, mainly when I got stuck on some stuff.
 - Took huge help of a guy in class called Fredrik Hansen.
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
