@@ -1,11 +1,10 @@
 # Architecture designer
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
 Architecture designer is a webpage for a company who wants to inform their customers what they can help them with, what history they have been through and how to get in touch with the company.
 Architecture designer is useful for customers that might need help with planning their new construction work or architecture project.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Computer view](Images/Site%20view%20comp.png)
+![Phone view](Images/Site%20view%20phone.png)
 
 ## Features 
 
@@ -19,49 +18,49 @@ In this section, you should go over the different parts of your project, and des
 
   - This section will allow the user to easily navigate on the site and find the right information straight away, on all different devices.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Top nav](Images/Topnav.png)
 
 - __The landing page image__
 
   - Our landing page is a previous work that the architecture design company have completed to show the user what kind of projects the company can help them with. 
   - This image shows the viewer an eyeopening first project to catch their attention and build trust in what the company can achieve.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](Images/Landing%20page.png)
 
 - __About us Section__
 
   - The about us section describes to the viewer why just this architecture design company is the right company to go with, describing three key factors in the company.
-  - The user will see the different values of the company, working time effiency, being family owned and yet affordable.
+  - The user will see the different values of the company, working time efficiency, being family owned and yet affordable.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About us](Images/About%20us.png)
 
 - __History section__
 
   - This section will allow the user to read more about the history of the company and get an understanding on how they started and have worked throughout the years.
   - This is to build that trust with the customers and try to get them to feel safe that the architecture design company have been in business for long. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![History](Images/History.png)
 
 - __The Footer__ 
 
   - The footer section is kept simple with relevant social media sites for the company, the links will open in a new tab to allow aesy navigation for the user.
   - The footer is valuable for the user and the company to get them connected on social medias.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](Images/Footer.png)
 
 - __Gallery__
 
   - The gallery is kept simple and nice to show of some of the previous work that the business have done and give some inspiration to the viewer.
   - This section is valuable for the user as they will feel safe that the company have done previous work and can show of their previous work. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](Images/Gallery.png)
 
 - __The contact form__
 
   - The contact form will allow the customer to easily fill out their information with a message that directly connects them with the architecture designer. All the boxes are marked as required and the form works. 
   - This is really valuable for the viewer as they dont have to leave the site to get in touch with the company.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact form](Images/Contact%20form.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -69,7 +68,10 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- Style the site with different color variations
+- Adding more images and more content to the site
+- Adding reviews at the bottom of the page
+- Adding social media icons to the footer
 
 ## Testing 
 
