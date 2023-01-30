@@ -89,7 +89,7 @@ In this section, you should go over the different parts of your project, and des
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+I did not come across any bugs that werent resolved.
 
 ## Deployment
 
@@ -100,7 +100,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - (Länk här)
 
 
 ## Credits 
@@ -114,14 +114,14 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- This is an architecture page that I made up to suit the page relevane.
+- I have made the contact form myself.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+![House](https://i.ibb.co/WvWwL4W/building.jpg)
+![Staircase](https://i.ibb.co/Rzb2zQ9/staircase-g9834dfa07-1280.jpg)
+![Building](https://i.ibb.co/qycCjfc/architecture-g24968616b-1280.jpg)
+![House](https://i.ibb.co/WvWwL4W/building.jpg)
+![Logotype](https://i.imgur.com/fog2PVl.jpeg)
 
-
-## Other General Project Advice
