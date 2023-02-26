@@ -99,7 +99,7 @@ This section should describe the process you went through to deploy the project 
   - Under the source section, I selected a main branch and clicked save
   - The site reloaded and I got my website link and a successful deployment to GitHub
 
-The live link can be found here - (Länk här)
+The live link can be found here - [here](https://gomsur.github.io/Project1-23/)
 
 
 ## Credits 
