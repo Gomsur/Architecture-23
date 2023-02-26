@@ -117,7 +117,7 @@ The live link can be found here - [here](https://gomsur.github.io/Project1-23/)
 
 ### Content 
 
-- This is an architecture page that I made up to suit the page relevane.
+- This is an architecture page that I made up to suit the page relevance.
 - I have made the contact form myself.
 
 ### Media
