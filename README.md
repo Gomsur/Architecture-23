@@ -77,6 +77,14 @@ In this section, you should go over the different parts of your project, and des
 - Tested responsiveness on different devices
 - Tested so all images are responsive to media quarry
 
+## Design
+Design is kept nice and simple with basic colors and text, the site is an informative website for an architecture firm which is usually kept in simple color considerations.
+Following presents the colors and text chosen for this project.
+- #f2f2f2; (Grey)
+- #4a4a4f (White)
+- Arial, Helvetica,
+- Sans-serif
+
 
 ### Validator Testing 
 
