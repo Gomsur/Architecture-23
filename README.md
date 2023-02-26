@@ -119,4 +119,3 @@ The live link can be found here - [here](https://gomsur.github.io/Project1-23/)
 ![Building](https://i.ibb.co/qycCjfc/architecture-g24968616b-1280.jpg)
 ![House](https://i.ibb.co/WvWwL4W/building.jpg)
 ![Logotype](https://i.imgur.com/fog2PVl.jpeg)
-
