@@ -3,9 +3,7 @@
 Architecture designer is a webpage for a company who wants to inform their customers what they can help them with, what history they have been through and how to get in touch with the company.
 Architecture designer is useful for customers that might need help with planning their new construction work or architecture project.
 
-![Computer view](Images/Site%20view%20comp.png)
-![Phone view](Images/Site%20view%20phone.png)
-
+![Responsive](Images/responsive.png)
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
